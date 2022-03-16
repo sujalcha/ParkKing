@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.parkking.zujal.parkking.HomePage">
+    <item
+        android:id="@+id/loginid"
+        android:orderInCategory="100"
+        android:title="Login"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logoutid"
+        android:orderInCategory="100"
+        android:title="LogOut"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/reservationcurrentid"
+        android:title="Reservations" />
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Contact"
+        app:showAsAction="never" />
+
+
+</menu>

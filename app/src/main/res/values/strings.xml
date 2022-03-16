@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ParkKing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="termsofconditiontext">Agree with the <b>Terms</b> and <b>Privacy Policy</b></string>
+    <string name="signuptext">New to ParkKing ? </string>
+    <string name="signuptext2"><b> Sign Up</b></string>
+
+
+    <string name="appintro">This is an application to show the use of service and notificaition</string>
+    <string name="start">Start Service</string>
+    <string name="stop">Stop Service</string>
+    <string name="service_started">Service started</string>
+    <string name="service_label">Service Label</string>
+
+
+
+    <string name="Count_List_Key">Count_List_Key</string>
+
+</resources>
